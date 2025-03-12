@@ -1,6 +1,6 @@
 # Housing Prices Prediction
 
-This projet is done in the context of a famous kaggle competition where the goal is to create the best model to predict the price of a house. The dataset input consist of 80 house features (also called predictors in ml), and the output is the price of the house (also called prediction). 
+This projet is done in the context of a famous kaggle competition where the goal is to create the best model to predict the price of a house. The dataset input consist of 80 house features (predictors), and the output is the price of the house (prediction). 
 
 Several data preprocessing have been done seperately, creating different versions of the dataset. This way, we could provide each model an adapted version of the dataset. 
 
